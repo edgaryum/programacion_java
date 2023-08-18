@@ -1,0 +1,37 @@
+dados chek
+jugador chek
+    numero jugador
+    dinero
+    posicion
+
+banco chek
+    dinero
+
+arca comunal
+
+tablero
+    posiciones 40
+    propiedades normales 22
+    propiedades especiales 6
+    comodines1 3
+    comodines2 3
+    impuestos 2 
+    inicio 1
+    carcel 1
+    ir a la carcel 1
+    parada 1
+propiedades
+carcel
+valla a la carcel
+go
+parada
+bases de datos
+    propiedades normales
+        nombre
+        valor compra
+        valor mejora
+        renta segun mejora
+        dueño
+        relacion (propiedades con que relaciona)
+        valor venta
+    jugadores
